@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "lrequire"]
-	path = lrequire
-	url = https://github.com/rickwargo/lrequire
-	shallow = true
-	registered = true
